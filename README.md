@@ -132,12 +132,15 @@
 <br>
 
 ## Fun Facts
-- I enjoy combining my love for coding with my passion for cooking by creating algorithm-generated recipes. 🍳📊
+* I enjoy combining my love for coding with my passion for cooking by creating algorithm-generated recipes. 🍳📊
 <br>
-- I once coded an entire web app during a 12-hour layover at an airport! ✈️💻
+
+* I once coded an entire web app during a 12-hour layover at an airport! ✈️💻
 <br>
 
 <div align='center'>
+<br>
+<br>
 
 ## <b>Happy Coding...✨</b>
 
